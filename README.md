@@ -32,8 +32,8 @@ Aprendo de forma autodidacta y a traves de proyectos reales. Actualmente trabajo
 **Backend y Base de Datos**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Herramientas**
@@ -47,7 +47,7 @@ Aprendo de forma autodidacta y a traves de proyectos reales. Actualmente trabajo
 ## Proyectos
 
 ### BarberOS
-Aplicacion web fullstack para la gestion de una barberia. Permite administrar turnos, clientes y servicios. Desarrollado con React en el frontend, Node.js y Express en el backend, y SQLite como base de datos. El proyecto cuenta con 15 versiones publicadas y sigue en desarrollo activo.
+Aplicacion web fullstack para la gestion de una barberia. Permite administrar turnos, clientes y servicios. Desarrollado con React en el frontend, Node.js en el backend, y SQLite como base de datos y Electron para ejecutarse como aplicacion de escritorio. El proyecto cuenta con 15 versiones publicadas y sigue en desarrollo activo.
 
 [![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leni021/BarberOS)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
