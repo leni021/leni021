@@ -24,25 +24,28 @@ Formacion en proyectos open source y documentacion oficial. En proceso de inscri
 
 <br>
 
-## Stack
+## Stack Tecnologico
 
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=electron,nodejs,js,sqlite,express&theme=dark" alt="Stack Principal" /></a>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode&theme=dark" alt="Herramientas" /></a>
-
-</div>
-
+**Desarrollo Desktop & Backend**
 <br>
+<img src="https://img.shields.io/badge/Electron.js-161b22?style=flat-square&logo=electron&logoColor=b0b0b0" alt="Electron" />
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=b0b0b0" alt="Node" />
+<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=b0b0b0" alt="Express" />
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=b0b0b0" alt="SQLite" />
 
-<div align="center">
+**Frontend & Web**
+<br>
+<img src="https://img.shields.io/badge/JavaScript_ES6+-161b22?style=flat-square&logo=javascript&logoColor=b0b0b0" alt="JS" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=b0b0b0" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=b0b0b0" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=b0b0b0" alt="CSS" />
+<img src="https://img.shields.io/badge/EJS-161b22?style=flat-square&logo=ejs&logoColor=b0b0b0" alt="EJS" />
 
-`Electron.js` &nbsp; `Node.js` &nbsp; `JavaScript ES6+` &nbsp; `SQLite` &nbsp; `Express` &nbsp; `EJS`
-
-`React` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `GitHub Actions` &nbsp; `CI/CD` &nbsp; `Git`
-
-</div>
+**DevOps & Herramientas**
+<br>
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=b0b0b0" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=b0b0b0" alt="Actions" />
 
 <br>
 
@@ -86,7 +89,7 @@ Sitio web para un negocio familiar. Proyecto real end-to-end: desde el relevamie
 
 **Power Rangers Legacy Wars - Pagina Web**
 <br>
-<sub>Proyecto final - Maquetado de Diseno Multimedial (Da Vinci) &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
+<sub>Proyecto final - Maquetado de Diseno Multimedial (Da Vinci) &nbsp;-&nbsp; 2025 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
 
 Maquetado estatico con estructura semantica y diseno responsive.
 
@@ -102,11 +105,11 @@ Maquetado estatico con estructura semantica y diseno responsive.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0)](https://github.com/leni021)
+<img src="https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0" alt="GitHub Streak" />
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&langs_count=6)](https://github.com/leni021)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&v=1" alt="Top Langs" />
 
 </div>
 
