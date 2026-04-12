@@ -28,24 +28,24 @@ Formacion en proyectos open source y documentacion oficial. En proceso de inscri
 
 **Desarrollo Desktop & Backend**
 <br>
-<img src="https://img.shields.io/badge/Electron.js-161b22?style=flat-square&logo=electron&logoColor=b0b0b0" alt="Electron" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=b0b0b0" alt="Node" />
-<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=b0b0b0" alt="Express" />
-<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=b0b0b0" alt="SQLite" />
+<img src="https://img.shields.io/badge/Electron.js-161b22?style=flat-square&logo=electron&logoColor=47848F" alt="Electron" />
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=339933" alt="Node" />
+<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
 
 **Frontend & Web**
 <br>
-<img src="https://img.shields.io/badge/JavaScript_ES6+-161b22?style=flat-square&logo=javascript&logoColor=b0b0b0" alt="JS" />
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=b0b0b0" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=b0b0b0" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=b0b0b0" alt="CSS" />
-<img src="https://img.shields.io/badge/EJS-161b22?style=flat-square&logo=ejs&logoColor=b0b0b0" alt="EJS" />
+<img src="https://img.shields.io/badge/JavaScript_ES6+-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JS" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/EJS-161b22?style=flat-square&logo=ejs&logoColor=B4CA65" alt="EJS" />
 
 **DevOps & Herramientas**
 <br>
-<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=b0b0b0" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=b0b0b0" alt="Actions" />
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="Actions" />
 
 <br>
 
@@ -109,7 +109,7 @@ Maquetado estatico con estructura semantica y diseno responsive.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&v=1" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&custom_title=Top_Lenguajes" alt="Top Langs" />
 
 </div>
 
