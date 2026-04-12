@@ -1,41 +1,46 @@
 <div align="center">
 
-# LENNING HIDALGO
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=3000&color=B0B0B0&center=true&vCenter=true&width=700&lines=Lenning+Hidalgo)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=2000&color=B0B0B0&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Especialista+en+Aplicaciones+de+Escritorio;Entusiasta+del+Backend)](https://git.io/typing-svg)
+<sub>`Desarrollador de Software - Desktop Apps & Backend`</sub>
 
----
+<br>
 
-[![Disponible](https://img.shields.io/badge/Status-Disponible_para_trabajar-000000?style=for-the-badge&logo=github&logoColor=b0b0b0)](mailto:favian0218@gmail.com)
-[![Ubicacion](https://img.shields.io/badge/Ubicacion-Buenos_Aires,_Argentina-000000?style=for-the-badge&logo=googlemaps&logoColor=b0b0b0)](https://github.com/leni021)
+<img src="https://img.shields.io/badge/-Disponible_para_trabajar-000000?style=flat-square&labelColor=0d1117&color=000000&logoColor=b0b0b0" alt="Disponible" />
+&nbsp;
+<img src="https://img.shields.io/badge/-Buenos_Aires,_Argentina-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=b0b0b0" alt="Ubicacion" />
 
 </div>
 
 <br>
 
-## Sobre mi
+---
 
-Desarrollador autodidacta enfocado en la creacion de herramientas robustas y eficientes. Especializado en aplicaciones de escritorio multiplataforma y sistemas de backend escalables. Mi objetivo principal es la resolucion de problemas de negocio mediante arquitectura de software solida, con un enfoque en la legibilidad del codigo y la eficiencia.
+Desarrollador autodidacta especializado en **aplicaciones de escritorio multiplataforma** con Electron.js y **backend** con Node.js. Construyo herramientas reales para negocios locales cubriendo todo el ciclo: relevamiento, arquitectura, implementacion, CI/CD y soporte.
 
-* **Intereses:** Desarrollo de sistemas, motociclismo y estetica minimalista.
-* **Formacion:** Futuro estudiante de Ingenieria en Software - UADE (Agosto 2026).
-* **Filosofia:** Disenar soluciones practicas que aporten valor real, manteniendo una base de codigo mantenible.
+Formacion en proyectos open source y documentacion oficial. En proceso de inscripcion en **Desarrollo de Software - UADE** (agosto 2026).
+
+---
 
 <br>
 
-## Stack Tecnologico
+## Stack
 
 <div align="center">
 
-**Lenguajes y Frameworks Core**
-<br>
-<img src="https://skillicons.dev/icons?i=electron,nodejs,js,sqlite,react,express&theme=dark" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=electron,nodejs,js,sqlite,express&theme=dark" alt="Stack Principal" /></a>
 
-<br><br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode&theme=dark" alt="Herramientas" /></a>
 
-**Herramientas y DevOps**
+</div>
+
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,html,css&theme=dark" />
+
+<div align="center">
+
+`Electron.js` &nbsp; `Node.js` &nbsp; `JavaScript ES6+` &nbsp; `SQLite` &nbsp; `Express` &nbsp; `EJS`
+
+`React` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `GitHub Actions` &nbsp; `CI/CD` &nbsp; `Git`
 
 </div>
 
@@ -43,31 +48,65 @@ Desarrollador autodidacta enfocado en la creacion de herramientas robustas y efi
 
 ---
 
-## Proyectos Destacados
+<br>
 
-### BarberOS - Sistema de Gestion para Barberias
-* **Tecnologias:** Electron, Node.js, SQLite, GitHub Actions.
-* **Descripcion:** Software de escritorio multiplataforma. Implementa persistencia de datos relacional con SQLite y aisla procesos para mayor seguridad. Incluye despliegue automatizado mediante integracion continua.
-* [![Ver Repositorio](https://img.shields.io/badge/Ver_Codigo_Fuente-000000?style=flat-square&logo=github&logoColor=b0b0b0)](https://github.com/leni021/BarberOS)
+## Proyectos
 
-### Kiosco Luzuriaga - Web para Negocio Local
-* **Tecnologias:** Node.js, Express, EJS.
-* **Descripcion:** Aplicacion web completa. Utiliza renderizado en el servidor (SSR) para garantizar tiempos de carga rapidos y facilitar la gestion del catalogo de productos.
-* [![Ver Repositorio](https://img.shields.io/badge/Ver_Codigo_Fuente-000000?style=flat-square&logo=github&logoColor=b0b0b0)](https://github.com/leni021/kiosco-luzuriaga)
+<br>
+
+**BarbeOS - Sistema de Gestion para Barberias**
+<br>
+<sub>Desarrollador principal &nbsp;-&nbsp; 2024 - actualidad &nbsp;-&nbsp; `Electron` `Node.js` `SQLite` `CI/CD`</sub>
+
+Sistema de escritorio multiplataforma para la administracion de turnos, clientes y servicios. Version estable con **15+ releases** publicados.
+
+- Migre de `localStorage` a **SQLite** para persistencia real de datos y esquemas relacionales
+- Implemente **Context Isolation** y comunicacion IPC restringida entre procesos Main y Renderer
+- Configure un pipeline **CI/CD con GitHub Actions** que elimino todos los pasos manuales de deploy
+
+<a href="https://github.com/leni021/BarberOS"><img src="https://img.shields.io/badge/Ver_repositorio-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="Repositorio BarberOS" /></a>
 
 <br>
 
 ---
+
+**kiosco-luzuriaga - Sitio Web para Negocio Local**
+<br>
+<sub>Desarrollador principal &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `Node.js` `Express` `EJS`</sub>
+
+Sitio web para un negocio familiar. Proyecto real end-to-end: desde el relevamiento hasta el despliegue.
+
+- Renderizado server-side con **EJS** sobre backend **Node.js + Express**
+
+<a href="https://github.com/leni021/kiosco-luzuriaga"><img src="https://img.shields.io/badge/Ver_repositorio-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="Repositorio Kiosco Luzuriaga" /></a>
+
+<br>
+
+---
+
+**Power Rangers Legacy Wars - Pagina Web**
+<br>
+<sub>Trabajo practico universitario &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
+
+Maquetado estatico con estructura semantica y diseno responsive.
+
+<a href="https://github.com/leni021/tp_2_legacy_wars"><img src="https://img.shields.io/badge/Ver_repositorio-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="Repositorio Power Rangers" /></a>
+
+<br>
+
+---
+
+<br>
 
 ## Estadisticas
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leni021&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=b0b0b0&text_color=8b949e&icon_color=b0b0b0)](https://github.com/leni021)
+<a href="https://github.com/leni021"><img src="https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0" alt="GitHub Streak" /></a>
 
-<br>
+<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leni021&theme=dark&background=000000&hide_border=true&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0)](https://github.com/leni021)
+<a href="https://github.com/leni021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&langs_count=6" alt="Top Langs" /></a>
 
 </div>
 
@@ -75,15 +114,24 @@ Desarrollador autodidacta enfocado en la creacion de herramientas robustas y efi
 
 ---
 
+<br>
+
 ## Contacto
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=b0b0b0)](mailto:favian0218@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=b0b0b0)](https://linkedin.com/in/lenning-hidalgo-ramos-916665216)
+<a href="mailto:favian0218@gmail.com"><img src="https://img.shields.io/badge/favian0218@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=b0b0b0" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/leni021"><img src="https://img.shields.io/badge/github.com/leni021-0d1117?style=for-the-badge&logo=github&logoColor=b0b0b0" alt="GitHub" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/lenning-hidalgo-ramos-916665216"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=b0b0b0" alt="LinkedIn" /></a>
 
-<br><br>
+</div>
 
-![Visitas](https://komarev.com/ghpvc/?username=leni021&color=black&style=flat-square&label=VISTAS+DEL+PERFIL)
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=leni021&color=0d1117&style=flat-square&label=Visitas+al+perfil" alt="Visitas" />
 
 </div>
