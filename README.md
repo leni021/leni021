@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1117,100:161b22&height=160&section=header&text=Lenning%20Hidalgo&fontSize=48&fontColor=e6edf3&fontAlignY=40&desc=Software%20Developer%20%7C%20Desktop%20Apps%20%26%20Backend&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Lenning+Hidalgo+%E2%80%94+Software+Developer;Electron.js+%7C+Node.js+%7C+SQLite;Desktop+Apps+%26+Backend;Disponible+para+oportunidades+laborales)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Electron.js+%7C+Node.js+%7C+SQLite;Arquitectura+de+aplicaciones+desktop;CI%2FCD+con+GitHub+Actions;Disponible+para+oportunidades+laborales)](https://git.io/typing-svg)
-
-![Disponible](https://img.shields.io/badge/Disponible_para_trabajar-Sí-3fb950?style=for-the-badge&labelColor=161b22)
+![Disponible](https://img.shields.io/badge/Disponible_para_trabajar-S%C3%AD-3fb950?style=for-the-badge&labelColor=161b22)
 
 </div>
 
@@ -12,11 +10,11 @@
 
 ## Sobre mí
 
-Desarrollador de software autodidacta especializado en **aplicaciones de escritorio** con Electron.js y **backend** con Node.js. Construyo herramientas reales para negocios locales: desde la arquitectura de base de datos hasta el empaquetado y distribución de ejecutables.
+Desarrollador autodidacta especializado en **aplicaciones de escritorio** con Electron.js y **backend** con Node.js. Construyo herramientas reales para negocios locales: desde la arquitectura de la base de datos hasta el empaquetado y distribución de ejecutables.
 
-Me formé a través de proyectos open source y documentación oficial. Actualmente en proceso de inscripción en la carrera de **Ingeniería en Sistemas en UADE** (agosto 2026).
+Me formé a través de proyectos open source y documentación oficial. En proceso de inscripción en la carrera de **Desarrollo de Software en UADE** (agosto 2026).
 
-**📍 Buenos Aires, Argentina** &nbsp;|&nbsp; **📧 favian0218@gmail.com**
+📍 **Buenos Aires, Argentina** &nbsp;|&nbsp; 📧 **favian0218@gmail.com**
 
 ---
 
@@ -32,6 +30,7 @@ Me formé a través de proyectos open source y documentación oficial. Actualmen
 
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=44a8f2)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=B4CA65)
 
 **Frontend**
 
@@ -47,9 +46,9 @@ Me formé a través de proyectos open source y documentación oficial. Actualmen
 
 ---
 
-## Proyecto Principal
+## Proyectos
 
-### 🗂️ BarbeOS — Sistema de Gestión para Barberías
+### BarbeOS — Sistema de Gestión para Barberías
 
 > Aplicación de escritorio multiplataforma para la administración de turnos, clientes y servicios en barberías.
 
@@ -59,12 +58,38 @@ Me formé a través de proyectos open source y documentación oficial. Actualmen
 - Pipeline de **CI/CD con GitHub Actions** para empaquetado automático y distribución de releases
 - **15+ versiones publicadas** — versión estable en desarrollo activo
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leni021/BarbeOS)
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leni021/BarberOS)
 &nbsp;
 ![Electron](https://img.shields.io/badge/Electron-2b2e3b?style=flat-square&logo=electron&logoColor=9feaf9)
 ![Node.js](https://img.shields.io/badge/Node.js-1c2a1c?style=flat-square&logo=node.js&logoColor=6cc24a)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=44a8f2)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+---
+
+### kiosco-luzuriaga — Sitio Web para Negocio Local
+
+> Sitio web para un kiosco familiar. Proyecto real con cliente real: desde el relevamiento hasta el despliegue.
+
+- Renderizado server-side con **EJS** y backend en **Node.js + Express**
+- Gestión de versiones y despliegue vía GitHub
+
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leni021/kiosco-luzuriaga)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-1c2a1c?style=flat-square&logo=node.js&logoColor=6cc24a)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![EJS](https://img.shields.io/badge/EJS-0d1117?style=flat-square&logo=ejs&logoColor=B4CA65)
+
+---
+
+### Power Rangers Legacy Wars — Página Web
+
+> Trabajo práctico universitario. Maquetado estático con HTML5 y CSS3.
+
+[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leni021/tp_2_legacy_wars)
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-1a0e00?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-00101a?style=flat-square&logo=css3&logoColor=1572B6)
 
 ---
 
@@ -92,6 +117,11 @@ Me formé a través de proyectos open source y documentación oficial. Actualmen
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=leni021&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
+
+</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0a0a0f&height=80&section=footer" width="100%"/>
 
