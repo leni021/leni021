@@ -107,10 +107,6 @@ Maquetado estatico con estructura semantica y diseno responsive.
 
 <img src="https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0" alt="GitHub Streak" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&custom_title=Top_Lenguajes" alt="Top Langs" />
-
 </div>
 
 <br>
