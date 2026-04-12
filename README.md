@@ -56,7 +56,7 @@ Formacion en proyectos open source y documentacion oficial. En proceso de inscri
 
 **BarbeOS - Sistema de Gestion para Barberias**
 <br>
-<sub>Desarrollador principal &nbsp;-&nbsp; 2024 - actualidad &nbsp;-&nbsp; `Electron` `Node.js` `SQLite` `CI/CD`</sub>
+<sub>Desarrollador principal &nbsp;-&nbsp; 2026 - actualidad &nbsp;-&nbsp; `Electron` `Node.js` `SQLite` `CI/CD`</sub>
 
 Sistema de escritorio multiplataforma para la administracion de turnos, clientes y servicios. Version estable con **15+ releases** publicados.
 
@@ -86,7 +86,7 @@ Sitio web para un negocio familiar. Proyecto real end-to-end: desde el relevamie
 
 **Power Rangers Legacy Wars - Pagina Web**
 <br>
-<sub>Trabajo practico universitario &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
+<sub>Proyecto final - Maquetado de Diseno Multimedial (Da Vinci) &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
 
 Maquetado estatico con estructura semantica y diseno responsive.
 
@@ -102,11 +102,11 @@ Maquetado estatico con estructura semantica y diseno responsive.
 
 <div align="center">
 
-<a href="https://github.com/leni021"><img src="https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&sideLabels=8b949e&dates=8b949e&sideNums=b0b0b0)](https://github.com/leni021)
 
 <br><br>
 
-<a href="https://github.com/leni021"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&langs_count=6" alt="Top Langs" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=b0b0b0&text_color=c9d1d9&langs_count=6)](https://github.com/leni021)
 
 </div>
 
@@ -120,11 +120,11 @@ Maquetado estatico con estructura semantica y diseno responsive.
 
 <div align="center">
 
-<a href="mailto:favian0218@gmail.com"><img src="https://img.shields.io/badge/favian0218@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=b0b0b0" alt="Email" /></a>
+<a href="mailto:favian0218@gmail.com"><img src="https://img.shields.io/badge/favian0218@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
-<a href="https://github.com/leni021"><img src="https://img.shields.io/badge/github.com/leni021-0d1117?style=for-the-badge&logo=github&logoColor=b0b0b0" alt="GitHub" /></a>
+<a href="https://github.com/leni021"><img src="https://img.shields.io/badge/github.com/leni021-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/lenning-hidalgo-ramos-916665216"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=b0b0b0" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/lenning-hidalgo-ramos-916665216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
