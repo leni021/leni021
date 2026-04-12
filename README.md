@@ -1,89 +1,37 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Lenning+Hidalgo;Desarrollador+de+Software;Desktop+Apps+%26+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=LENNING+HIDALGO;SOFTWARE+DEVELOPER;DESKTOP+APPS+AND+BACKEND)](https://git.io/typing-svg)
 
 <br>
 
-![](https://img.shields.io/badge/Estado-Disponible_para_trabajar-161b22?style=flat-square&labelColor=000000&color=161b22)
-![](https://img.shields.io/badge/Base-Buenos_Aires,_Argentina-161b22?style=flat-square&labelColor=000000&color=161b22)
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 </div>
 
 <br>
 
----
+### PERFIL PROFESIONAL
 
-Desarrollador enfocado en la arquitectura de **aplicaciones de escritorio multiplataforma** y **backend**. Construyo herramientas escalables para negocios locales gestionando el ciclo de vida completo: relevamiento, diseño de base de datos, implementación, CI/CD y soporte continuo.
+[cite_start]Desarrollador enfocado en la arquitectura de aplicaciones de escritorio multiplataforma y sistemas backend[cite: 2, 6]. [cite_start]Especialista en la construcción de herramientas reales para negocios locales, gestionando el ciclo completo de desarrollo: desde el relevamiento de requisitos y diseño de bases de datos hasta la implementación de CI/CD y soporte técnico[cite: 7, 35].
 
-Actualmente desarrollando proyectos de impacto real y próximo a iniciar la **Tecnicatura en Desarrollo de Software** en UADE.
+[cite_start]Actualmente profundizando en la ingeniería de software y próximo a ingresar en la Tecnicatura en Desarrollo de Software en la UADE (Agosto 2026)[cite: 8, 40, 41].
+
+<br>
 
 ---
 
 <br>
 
-## 🛠️ Stack Tecnológico
+### STACK TECNICO
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=electron,nodejs,js,sqlite,express&theme=dark)](https://skillicons.dev)
-<br>
-[![](https://skillicons.dev/icons?i=react,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=electron,nodejs,js,sqlite,express,react,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 <br>
 
-`Electron.js` &nbsp;•&nbsp; `Node.js` &nbsp;•&nbsp; `JavaScript ES6+` &nbsp;•&nbsp; `SQLite` &nbsp;•&nbsp; `Express` 
-
-`React` &nbsp;•&nbsp; `CI/CD` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `Git`
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🚀 Proyectos Destacados
-
-<br>
-
-### 💈 BarbeOS — Sistema de Gestión para Barberías
-<sub>`Electron` `Node.js` `SQLite` `CI/CD`</sub>
-
-Sistema de escritorio multiplataforma para la administración de turnos y finanzas. Versión estable en producción con **15+ releases**.
-
-- **Migración de datos:** Transición de `localStorage` a **SQLite** para soportar esquemas relacionales y persistencia real.
-- **Seguridad:** Implementación de **Context Isolation** y comunicación IPC restringida.
-- **DevOps:** Pipeline automatizado de **CI/CD con GitHub Actions** para el empaquetado y despliegue sin intervención manual.
-
-[![](https://img.shields.io/badge/Repositorio-GitHub-161b22?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/leni021/BarberOS)
-
-<br>
-
-### 🛒 kiosco-luzuriaga — E-Commerce / Landing Page
-<sub>`Node.js` `Express` `EJS` `HTML/CSS`</sub>
-
-Aplicación web end-to-end desarrollada para un negocio local, cubriendo desde la toma de requisitos hasta el despliegue.
-
-- Renderizado Server-Side (SSR) utilizando **EJS** sobre un backend robusto en **Node.js**.
-
-[![](https://img.shields.io/badge/Repositorio-GitHub-161b22?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/leni021/kiosco-luzuriaga)
-
-<br>
-
----
-
-<br>
-
-## 📊 Estadísticas
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=leni021&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff)](https://git.io/streak-stats)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leni021&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=6)](https://github.com/leni021)
+**ELECTRON.JS** | **NODE.JS** | **JAVASCRIPT ES6+** | **SQLITE** | **EXPRESS**
+**REACT** | **CI/CD** | **GITHUB ACTIONS** | **GIT** | **CSS3**
 
 </div>
 
@@ -93,15 +41,51 @@ Aplicación web end-to-end desarrollada para un negocio local, cubriendo desde l
 
 <br>
 
-## 🦇 Contacto
+### PROYECTOS DESTACADOS
 
-<div align="center">
+**BarbeOS — Sistema de Gestion para Barberias**
+*Desarrollador Principal | [cite_start]2024 – Actualidad* [cite: 14, 15]
 
-[![](https://img.shields.io/badge/favian0218@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:favian0218@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/lenning-hidalgo-ramos-916665216)
+Aplicación de escritorio multiplataforma para la administración de turnos y servicios, con más de 15 versiones estables publicadas[cite: 16, 17].
+- Arquitectura de datos migrada a SQLite para asegurar persistencia real y soporte a esquemas complejos[cite: 18].
+- Implementación de seguridad mediante Context Isolation y comunicación IPC restringida entre procesos[cite: 19].
+- Automatización total del despliegue y empaquetado de ejecutables mediante pipelines de GitHub Actions[cite: 20].
+
+**Kiosco Luzuriaga — Solucion Web**
+*Desarrollador Principal | [cite_start]2026* [cite: 24]
+
+[cite_start]Proyecto real end-to-end para un negocio familiar, integrando backend y frontend[cite: 25].
+- [cite_start]Desarrollo basado en Node.js y Express con renderizado server-side mediante EJS[cite: 26].
+- [cite_start]Gestión integral del ciclo de vida del software, desde la toma de requerimientos hasta el despliegue final[cite: 26].
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=leni021&color=161b22&style=flat-square&label=Vistas+del+perfil)
+---
+
+<br>
+
+### EDUCACION Y FORMACION
+
+- **Tecnicatura Universitaria en Desarrollo de Software** | [cite_start]UADE (Ingreso 2026) [cite: 40, 41]
+- **Diseño Multimedial** | [cite_start]Instituto Da Vinci [cite: 42, 43]
+- **Formación Autodidacta en Ingeniería de Software** | [cite_start]Enfoque en documentación oficial y proyectos de código abierto (2023 - Actualidad) [cite: 45, 47]
+
+<br>
+
+---
+
+<br>
+
+### CONTACTO
+
+<div align="center">
+
+[![](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:favian0218@gmail.com)
+[![](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/lenning-hidalgo-ramos-916665216)
+[![](https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/leni021)
+
+<br>
+
+![Perfil Views](https://komarev.com/ghpvc/?username=leni021&color=ffffff&style=flat-square&label=VISITAS)
 
 </div>
