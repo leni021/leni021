@@ -87,6 +87,22 @@ Sitio web para un negocio familiar. Proyecto real end-to-end: desde el relevamie
 
 ---
 
+**vision-automation-agent - Autonomous UI Automation & Vision Agent**
+<br>
+<sub>Desarrollador principal &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; `Node.js` `Playwright` `GPT-4o`</sub>
+
+Motor de automatizacion de interfaz orientado a SPAs complejas con interpretacion visual y ejecucion resiliente sobre DOM reactivo.
+
+- Resolucion de flujos dinamicos con decisiones basadas en vision (GPT-4o)
+- Persistencia de estado y manejo de autenticacion hibrida en contextos reales
+- Estrategias de interaccion forzada para reducir fallos por overlays y actionability
+
+<a href="https://github.com/leni021/vision-automation-agent"><img src="https://img.shields.io/badge/Ver_repositorio-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="Repositorio Vision Automation Agent" /></a>
+
+<br>
+
+---
+
 **Power Rangers Legacy Wars - Pagina Web**
 <br>
 <sub>Proyecto final - Maquetado de Diseno Multimedial (Da Vinci) &nbsp;-&nbsp; 2025 &nbsp;-&nbsp; `HTML5` `CSS3`</sub>
@@ -98,23 +114,6 @@ Maquetado estatico con estructura semantica y diseno responsive.
 <br>
 
 ---
-
-<br>
----
-
-**vision-automation-agent - Autonomous UI Automation & Vision Agent**
-<br>
-<sub>Desarrollador principal &nbsp;-&nbsp; 2026 &nbsp;-&nbsp; Node.js Playwright GPT-4o</sub>
-
-Motor de automatizacion de interfaz orientado a SPAs complejas con interpretacion visual y ejecucion resiliente sobre DOM reactivo.
-
-- Resolucion de flujos dinamicos con decisiones basadas en vision (GPT-4o)
-- Persistencia de estado y manejo de autenticacion hibrida en contextos reales
-- Estrategias de interaccion forzada para reducir fallos por overlays y actionability
-
-<a href="https://github.com/leni021/vision-automation-agent"><img src="https://img.shields.io/badge/Ver_repositorio-161b22?style=flat-square&logo=github&logoColor=b0b0b0" alt="Repositorio Vision Automation Agent" /></a>
-
-<br>
 
 ## Estadisticas
 
